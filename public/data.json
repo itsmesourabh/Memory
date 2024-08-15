@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "All Courses",
+      "fame": "Browse all Courses",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus eros risus, eu blandit purus consectetur et. Phasellus consequat justo sit amet nunc malesuada mattis. Cras eget mi eu odio."
+    },
+    {
+      "id": 2,
+      "name": "Our Teams",
+      "fame": "Browse our Teams",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus eros risus, eu blandit purus consectetur et. Phasellus consequat justo sit amet nunc malesuada mattis. Cras eget mi eu odio."
+    },
+    {
+      "id": 3,
+      "name": "Get us Know",
+      "fame": "Browse all our team",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque maximus eros risus, eu blandit purus consectetur et. Phasellus consequat justo sit amet nunc malesuada mattis. Cras eget mi eu odio."
+    }
+  ]
+  
